@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+p1{
+  font-family: 'Titillium Web', sans-serif;
+
+}
+p2{
+  font-family: 'Hind', sans-serif;
+}
+p3{
+  font-family: 'Anton', sans-serif;
+}
+p4{
+  font-family: 'Indie Flower', cursive;
+
+}
+p5{
+  font-family: 'Anton', sans-serif;
+
+}
+p6{
+  font-family: 'Varela Round', sans-serif;
+
+}
+p7{
+  font-family: 'Play', sans-serif;
+}
+
+h1 {
+  background-color: green;
+}
+
+body {
+  background-color: yellow;
+}
+
+h3 {
+  background-color: red;
+}
+
+Use this link to change font: https://fonts.google.com/?selection.family=Titillium+Web
